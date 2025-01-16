@@ -37,7 +37,5 @@ Me chamo Daniel Gonzaga, tenho 18 anos e sou de Minas Gerais. Atualmente, estou 
 />
 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-gonzaga-a122732b4)
-
 
 </p>
