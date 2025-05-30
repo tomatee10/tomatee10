@@ -36,6 +36,11 @@ Me chamo Daniel Gonzaga, tenho 18 anos e sou de Minas Gerais. Atualmente, estou 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
-
-</p>
+<img
+   align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    scr="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg"
+/>
